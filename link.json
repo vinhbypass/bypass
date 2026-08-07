@@ -1,4 +1,6 @@
 {
   "enabled": true,
-  "redirects": {}
+  "redirects": {
+    "220-2": "hnbguedrp.in"
+  }
 }
