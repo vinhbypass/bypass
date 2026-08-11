@@ -1,4 +1,6 @@
 {
   "enabled": true,
-  "redirects": {}
+  "redirects": {
+    "190-2": "Soikeo88.org"
+  }
 }
